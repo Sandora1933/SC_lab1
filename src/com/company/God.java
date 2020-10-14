@@ -27,5 +27,9 @@ public class God {
     public void startTheTimeLine(){
         System.out.println("Timeline has been started");
     }
+    
+    public void sayHello(){
+        System.out.println("Hello world!");
+    }
 
 }
