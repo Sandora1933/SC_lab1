@@ -10,6 +10,9 @@ public class Main {
         int b = 10;
         int c = 20;
         string author = "Mohand Alzrooq";
+        
+        
+        string author2 = "Gadallah Khaled";
 
     
 
