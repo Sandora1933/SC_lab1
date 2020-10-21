@@ -7,6 +7,9 @@ public class Main {
         God god = God.getInstance();
 
         int a = 11;
+        int b = 10;
+        int c = 20;
+        string author = "Mohand Alzrooq";
 
     
 
