@@ -7,7 +7,7 @@ public class God {
     private God(){
         System.out.println("I am the only God here!");
         
-        System.out.println("MY CHANGE");
+        System.out.println("AMIR MANSOR'S CHANGE");
     }
 
     public static God getInstance(){
